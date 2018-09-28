@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	color: #fff;
+}
+.imgheader{
+	width: 100vw;
+	height: 100vh;
+	background: url(assets/hero.jpg);
+	filter: brightness(40%);
+}
